@@ -2,4 +2,4 @@
 
 > Readme file for the BigMart product sales prediction machine learning project
 
-<img src="Images/BigMart.jpg" data-canonical-src="Images/BigMart.jpg" width="150" height="150" />
+<img src="https://th.bing.com/th/id/OIP.ToyZLZJErrMAydYa07y8twHaFj?pid=ImgDet&rs=1" width="150" height="150" />
